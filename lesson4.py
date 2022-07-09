@@ -4,7 +4,7 @@ x1 = float(input('X: '))
 
 y1 = float(input('Y: '))
 
-print("\nВведите вторую точку")
+print("Введите вторую точку")
 
 x2 = float(input('X: '))
 
