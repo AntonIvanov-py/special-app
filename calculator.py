@@ -24,7 +24,7 @@ elif action == "-":
 
 while action != "X" and action != "*" and action != "/" and action != "+" and action != "-":
     print("Ошибка! Повторите ввод!")
-    action = input("Введите операцию: ")
+    action = input("Введите опрацию: ")
     A = int(input("Введите первое число: "))
     B = int(input("Введите второе число: "))
 
