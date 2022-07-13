@@ -1,5 +1,5 @@
 
-action = input("Введите операцию: ")
+action = input("Введите операцию:")
 amount = int(input("Сколько операндов?"))
 for order in range(1, amount + 1):
     number = int(input("Введите операнд", str(order) + ":"))
